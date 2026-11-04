@@ -29,5 +29,8 @@ Para dotar al análisis de rigor temporal y estadístico, se han cruzado microda
 │   ├── 2014/             # Datasets históricos (DIRCE, Padrón, EESE)
 │   └── 2025/             # Datasets actuales
 ├── notebooks/
-│   └── memoria.ipynb     # Notebook principal con todo el código, gráficas y explicaciones
+│   └── .ipynb            # Notebooks utilizados para realizar el proyecto
+├── memoria.ipynb         # Notebook principal con lo más importante de código, gráficas y explicaciones
+├── presentacion.pdf      # Presentación del proyecto en pdf
 ├── README.md             # Presentación del proyecto
+
